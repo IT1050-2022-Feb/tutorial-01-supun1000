@@ -16,7 +16,7 @@ int main() {
   int n,t,count;
 
   printf("enter number=");
-  scanf("%d",n);
+  scanf("%d",&n);
   
   while(count<=n)
   {
